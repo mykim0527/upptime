@@ -4,19 +4,19 @@
     "url": "https://aiworks.co.kr/",
     "icon": "https://favicons.githubusercontent.com/aiworks.co.kr",
     "slug": "aiworks",
-    "status": "down",
-    "uptime": "83.24%",
-    "uptimeDay": "83.24%",
-    "uptimeWeek": "83.24%",
-    "uptimeMonth": "83.24%",
-    "uptimeYear": "83.24%",
-    "time": 5217,
-    "timeDay": 5217,
-    "timeWeek": 5217,
-    "timeMonth": 5217,
-    "timeYear": 5217,
+    "status": "up",
+    "uptime": "52.96%",
+    "uptimeDay": "52.96%",
+    "uptimeWeek": "52.96%",
+    "uptimeMonth": "52.96%",
+    "uptimeYear": "52.96%",
+    "time": 3663,
+    "timeDay": 3663,
+    "timeWeek": 3663,
+    "timeMonth": 3663,
+    "timeYear": 3663,
     "dailyMinutesDown": {
-      "2022-03-21": 29
+      "2022-03-21": 127
     }
   },
   {
