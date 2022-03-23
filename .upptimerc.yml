@@ -7,6 +7,10 @@ sites:
     url: https://aiworks.co.kr/
   - name: blackolive
     url: https://opbo.aiworks.co.kr/#/
+  - name: QA_aiworks
+    url: https://taw.aiworks.co.kr/
+  - name: QA_blackolive
+    url: https://topbo.aiworks.co.kr/#/
 
 
 status-website:
