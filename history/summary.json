@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/taw.aiworks.co.kr",
     "slug": "qa-aiworks",
     "status": "up",
-    "uptime": "95.43%",
+    "uptime": "95.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.43%",
+    "uptimeYear": "95.45%",
     "time": 574,
     "timeDay": 619,
     "timeWeek": 662,
@@ -66,17 +66,19 @@
     "url": "https://topbo.aiworks.co.kr/#/",
     "icon": "https://favicons.githubusercontent.com/topbo.aiworks.co.kr",
     "slug": "qa-blackolive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 693,
-    "timeDay": 577,
-    "timeWeek": 805,
-    "timeMonth": 694,
-    "timeYear": 693,
-    "dailyMinutesDown": {}
+    "time": 694,
+    "timeDay": 689,
+    "timeWeek": 804,
+    "timeMonth": 697,
+    "timeYear": 694,
+    "dailyMinutesDown": {
+      "2022-05-23": 0
+    }
   }
 ]
