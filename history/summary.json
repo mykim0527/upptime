@@ -66,19 +66,19 @@
     "url": "https://topbo.aiworks.co.kr/#/",
     "icon": "https://favicons.githubusercontent.com/topbo.aiworks.co.kr",
     "slug": "qa-blackolive",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.94%",
     "time": 694,
-    "timeDay": 689,
-    "timeWeek": 804,
-    "timeMonth": 697,
+    "timeDay": 683,
+    "timeWeek": 789,
+    "timeMonth": 696,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2022-05-23": 0
+      "2022-05-23": 51
     }
   }
 ]
