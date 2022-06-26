@@ -24,9 +24,9 @@
     "url": "https://opbo.aiworks.co.kr/#/",
     "icon": "https://favicons.githubusercontent.com/opbo.aiworks.co.kr",
     "slug": "blackolive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,16 +35,18 @@
     "timeWeek": 755,
     "timeMonth": 782,
     "timeYear": 749,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-26": 0
+    }
   },
   {
     "name": "QA_aiworks",
     "url": "https://taw.aiworks.co.kr/",
     "icon": "https://favicons.githubusercontent.com/taw.aiworks.co.kr",
     "slug": "qa-aiworks",
-    "status": "up",
+    "status": "down",
     "uptime": "97.07%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.07%",
@@ -54,6 +56,7 @@
     "timeMonth": 604,
     "timeYear": 584,
     "dailyMinutesDown": {
+      "2022-06-26": 0,
       "2022-04-13": 106,
       "2022-04-11": 77,
       "2022-04-10": 1440,
@@ -66,9 +69,9 @@
     "url": "https://topbo.aiworks.co.kr/#/",
     "icon": "https://favicons.githubusercontent.com/topbo.aiworks.co.kr",
     "slug": "qa-blackolive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -78,6 +81,7 @@
     "timeMonth": 774,
     "timeYear": 722,
     "dailyMinutesDown": {
+      "2022-06-26": 0,
       "2022-05-23": 51
     }
   }
