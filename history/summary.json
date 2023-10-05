@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiworks.co.kr.ico",
     "slug": "aiworks",
     "status": "down",
-    "uptime": "77.12%",
+    "uptime": "76.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "64.79%",
+    "uptimeYear": "64.52%",
     "time": 737,
-    "timeDay": 561,
-    "timeWeek": 752,
-    "timeMonth": 744,
+    "timeDay": 578,
+    "timeWeek": 755,
+    "timeMonth": 738,
     "timeYear": 767,
     "dailyMinutesDown": {
-      "2023-10-04": 54,
+      "2023-10-05": 54,
+      "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
@@ -175,9 +176,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 828,
-    "timeDay": 681,
-    "timeWeek": 837,
-    "timeMonth": 833,
+    "timeDay": 552,
+    "timeWeek": 819,
+    "timeMonth": 819,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2023-06-27": 500,
@@ -192,18 +193,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/taw.aiworks.co.kr.ico",
     "slug": "qa-aiworks",
     "status": "down",
-    "uptime": "30.80%",
+    "uptime": "30.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 622,
+    "time": 624,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-04": 54,
+      "2023-10-05": 54,
+      "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
@@ -566,8 +568,7 @@
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
-      "2022-10-06": 1440,
-      "2022-10-05": 1440
+      "2022-10-06": 1440
     }
   },
   {
@@ -576,7 +577,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/topbo.aiworks.co.kr.ico",
     "slug": "qa-blackolive",
     "status": "down",
-    "uptime": "31.06%",
+    "uptime": "31.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -587,7 +588,8 @@
     "timeMonth": 0,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2023-10-04": 54,
+      "2023-10-05": 54,
+      "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
@@ -950,8 +952,7 @@
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
-      "2022-10-06": 1440,
-      "2022-10-05": 1440
+      "2022-10-06": 1440
     }
   }
 ]
