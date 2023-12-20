@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiworks.co.kr.ico",
     "slug": "aiworks",
     "status": "down",
-    "uptime": "67.93%",
+    "uptime": "67.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.99%",
+    "uptimeYear": "43.71%",
     "time": 744,
-    "timeDay": 711,
-    "timeWeek": 739,
-    "timeMonth": 721,
-    "timeYear": 689,
+    "timeDay": 569,
+    "timeWeek": 723,
+    "timeMonth": 714,
+    "timeYear": 688,
     "dailyMinutesDown": {
-      "2023-12-19": 57,
+      "2023-12-20": 46,
+      "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
@@ -249,9 +250,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 834,
-    "timeDay": 842,
-    "timeWeek": 851,
-    "timeMonth": 856,
+    "timeDay": 678,
+    "timeWeek": 827,
+    "timeMonth": 850,
     "timeYear": 818,
     "dailyMinutesDown": {
       "2023-06-27": 500,
@@ -265,7 +266,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/taw.aiworks.co.kr.ico",
     "slug": "qa-aiworks",
     "status": "down",
-    "uptime": "27.12%",
+    "uptime": "27.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -276,7 +277,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-19": 57,
+      "2023-12-20": 46,
+      "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
@@ -639,8 +641,7 @@
       "2022-12-24": 1440,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
-      "2022-12-21": 1440,
-      "2022-12-20": 1440
+      "2022-12-21": 1440
     }
   },
   {
@@ -649,7 +650,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/topbo.aiworks.co.kr.ico",
     "slug": "qa-blackolive",
     "status": "down",
-    "uptime": "27.35%",
+    "uptime": "27.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -660,7 +661,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-19": 57,
+      "2023-12-20": 46,
+      "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
@@ -1023,8 +1025,7 @@
       "2022-12-24": 1440,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
-      "2022-12-21": 1440,
-      "2022-12-20": 1440
+      "2022-12-21": 1440
     }
   }
 ]
