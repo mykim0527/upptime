@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiworks.co.kr.ico",
     "slug": "aiworks",
     "status": "down",
-    "uptime": "67.09%",
+    "uptime": "66.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "41.79%",
-    "time": 745,
-    "timeDay": 561,
-    "timeWeek": 699,
-    "timeMonth": 720,
-    "timeYear": 689,
+    "uptimeYear": "41.52%",
+    "time": 746,
+    "timeDay": 776,
+    "timeWeek": 694,
+    "timeMonth": 719,
+    "timeYear": 690,
     "dailyMinutesDown": {
-      "2023-12-27": 55,
+      "2023-12-28": 54,
+      "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -257,9 +258,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 835,
-    "timeDay": 671,
-    "timeWeek": 838,
-    "timeMonth": 863,
+    "timeDay": 831,
+    "timeWeek": 822,
+    "timeMonth": 833,
     "timeYear": 820,
     "dailyMinutesDown": {
       "2023-06-27": 500,
@@ -273,18 +274,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/taw.aiworks.co.kr.ico",
     "slug": "qa-aiworks",
     "status": "down",
-    "uptime": "26.78%",
+    "uptime": "26.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 677,
+    "time": 678,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-27": 55,
+      "2023-12-28": 54,
+      "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -647,8 +649,7 @@
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
-      "2022-12-29": 1440,
-      "2022-12-28": 1440
+      "2022-12-29": 1440
     }
   },
   {
@@ -657,7 +658,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/topbo.aiworks.co.kr.ico",
     "slug": "qa-blackolive",
     "status": "down",
-    "uptime": "27.01%",
+    "uptime": "26.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -668,7 +669,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-27": 55,
+      "2023-12-28": 54,
+      "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -1031,8 +1033,7 @@
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
-      "2022-12-29": 1440,
-      "2022-12-28": 1440
+      "2022-12-29": 1440
     }
   }
 ]
