@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiworks.co.kr.ico",
     "slug": "aiworks",
     "status": "down",
-    "uptime": "62.36%",
+    "uptime": "62.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.55%",
-    "time": 747,
-    "timeDay": 786,
-    "timeWeek": 694,
-    "timeMonth": 707,
-    "timeYear": 702,
+    "uptimeYear": "28.31%",
+    "time": 757,
+    "timeDay": 562,
+    "timeWeek": 693,
+    "timeMonth": 695,
+    "timeYear": 703,
     "dailyMinutesDown": {
-      "2024-02-14": 54,
+      "2024-02-15": 54,
+      "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -286,8 +287,7 @@
       "2023-04-03": 183,
       "2023-03-17": 102,
       "2023-03-15": 51,
-      "2023-02-25": 98,
-      "2023-02-15": 98
+      "2023-02-25": 98
     }
   },
   {
@@ -296,18 +296,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/opbo.aiworks.co.kr.ico",
     "slug": "blackolive",
     "status": "down",
-    "uptime": "98.03%",
+    "uptime": "97.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "61.56%",
-    "uptimeYear": "96.48%",
+    "uptimeMonth": "58.27%",
+    "uptimeYear": "96.20%",
     "time": 841,
-    "timeDay": 937,
-    "timeWeek": 944,
-    "timeMonth": 861,
+    "timeDay": 665,
+    "timeWeek": 935,
+    "timeMonth": 854,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2024-02-14": 54,
+      "2024-02-15": 54,
+      "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -331,7 +332,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/taw.aiworks.co.kr.ico",
     "slug": "qa-aiworks",
     "status": "down",
-    "uptime": "24.89%",
+    "uptime": "24.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -342,7 +343,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-14": 54,
+      "2024-02-15": 54,
+      "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -705,8 +707,7 @@
       "2023-02-19": 1440,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
-      "2023-02-16": 1440,
-      "2023-02-15": 1440
+      "2023-02-16": 1440
     }
   },
   {
@@ -715,7 +716,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/topbo.aiworks.co.kr.ico",
     "slug": "qa-blackolive",
     "status": "down",
-    "uptime": "25.10%",
+    "uptime": "25.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -726,7 +727,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-14": 54,
+      "2024-02-15": 54,
+      "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -1089,8 +1091,7 @@
       "2023-02-19": 1440,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
-      "2023-02-16": 1440,
-      "2023-02-15": 1440
+      "2023-02-16": 1440
     }
   }
 ]
